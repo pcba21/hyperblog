@@ -17,7 +17,7 @@ body {
     padding: 0.5em 0 0.5em 2em;
 }
 
-#cabecera #logo{
+#cabecera #logo {
     width: 20px;
     vertical-align: middle;
 }
@@ -40,7 +40,14 @@ body {
     font-size: 20px;
 }
 
-#post{
+#post {
     background: white;
     padding: 1em;
+}
+
+#footer {
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
